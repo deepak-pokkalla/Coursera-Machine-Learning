@@ -6,4 +6,4 @@
 *List
 	*Nested list
 	
-	Hello, World!
+	The folder here contains solutions for Machine Learning course offered on Coursera.
